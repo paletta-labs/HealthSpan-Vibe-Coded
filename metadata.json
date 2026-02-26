@@ -1,0 +1,5 @@
+{
+  "name": "HealthSpan Dashboard",
+  "description": "A comprehensive health overview app that tracks medical exam results, compares them against target ranges, calculates BMI, and estimates biological age.",
+  "requestFramePermissions": []
+}
